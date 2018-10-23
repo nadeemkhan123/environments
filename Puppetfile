@@ -16,3 +16,6 @@ mod 'testrepo',
    :git => 'https://github.com/nadeemkhan123/testrepo.git',
    :branch => 'master'
 
+mod 'apache',
+   :git => 'https://github.com/nadeemkhan123/apache.git',
+   :branch => 'master'
